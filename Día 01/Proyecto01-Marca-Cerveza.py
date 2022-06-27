@@ -1,0 +1,1 @@
+print('"'+input("Introduce el nombre de un animal: ")+' '+input("Introduce un color: ")+'"')
